@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="@thenayeemparvez" group-title="Join Telegram - @AllLiveSportsLinks" tvg-logo="https://telegra.ph/file/94ab5e7bfc223f2cd8c53.png", Test Links
+https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/1_mvtgnp4q/format/applehttp/tags/tv/f/a.m3u8
+
+#EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="Nayeem's Zee5 { Movie }" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png",Zee Cinema HD 
+https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/1_mvtgnp4q/format/applehttp/tags/tv/f/a.m3u8
